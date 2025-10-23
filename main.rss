@@ -10,7 +10,7 @@
     <ttl>60</ttl>
 
     <item>
-      <title>Wpis testowy #1</title>
+      <title>Jesteś super</title>
       <link>https://example.com/posts/1</link>
       <description><![CDATA[Krótki opis pierwszego testowego wpisu.]]></description>
       <author>author@example.com (Autor Testowy)</author>
@@ -20,37 +20,14 @@
     </item>
 
     <item>
-      <title>Wpis testowy #2 — multimedia</title>
+      <title>Jej działa</title>
       <link>https://example.com/posts/2</link>
       <description><![CDATA[Ten wpis ma załącznik multimedialny (enclosure).]]></description>
       <author>media@example.com (Media)</author>
       <guid>post-2-guid-0001</guid>
       <pubDate>Wed, 22 Oct 2025 16:30:00 +0200</pubDate>
-      <enclosure url="https://example.com/media/sample.mp3" length="1234567" type="audio/mpeg" />
-    </item>
-
-    <item>
-      <title>Wpis testowy #3 — dłuższy opis</title>
-      <link>https://example.com/posts/3</link>
-      <description><![CDATA[
-        Dłuższy opis z HTML: <p>To jest <strong>przykładowy</strong> akapit, aby przetestować renderowanie.</p>
-        <p>Możesz tutaj wrzucić linki, <a href="https://example.com">obrazki</a> itd.</p>
-      ]]></description>
-      <author>editor@example.com (Editor)</author>
-      <guid>post-3-guid-0002</guid>
-      <pubDate>Tue, 21 Oct 2025 10:00:00 +0200</pubDate>
-      <category>example</category>
-      <category>html</category>
-    </item>
-
-    <item>
-      <title>Wpis testowy #4 — archived</title>
-      <link>https://example.com/posts/4</link>
-      <description>Stary wpis do testów archiwizacji.</description>
-      <author>archivist@example.com (Archivist)</author>
-      <guid isPermaLink="false">post-4-arch-0003</guid>
-      <pubDate>Mon, 01 Sep 2025 08:15:00 +0200</pubDate>
     </item>
 
   </channel>
 </rss>
+
